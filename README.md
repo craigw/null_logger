@@ -1,6 +1,6 @@
 # Null Logger
 
-It's nice to be able to inject a logger into libraries to see what's
+It's nice to be able to inject a Logger into libraries to see what's
 going on, but handling all that logging and providing sane defaults can
 be rather difficult.
 
